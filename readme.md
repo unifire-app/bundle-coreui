@@ -1,6 +1,8 @@
 CoreUI bundle for .unifire
 ==========================
 
+<img align="right" src="./assets/brand/coreui.png">
+
 # Installation
 
 ```bash
