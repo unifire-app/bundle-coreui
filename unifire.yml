@@ -1,0 +1,19 @@
+title: "CoreUI — Free Bootstrap Admin Template"
+bundle: "https://github.com/unifire-app/bundle-coreui"
+urls:
+    - {
+         url: "https://coreui.io/"
+         desc: "Main site"
+      }
+    - url: "https://coreui.io/demo/3.0/#main.html"
+      desc: "Live demo"
+views:
+    - name: .coreui/layout.tpl
+      title: "Main CoreUI layout (Free version)"
+      file: view/layout.tpl
+    - name: .coreui/login.tpl
+      title: "Login/register page"
+      file: view/layout.tpl
+    - name: .coreui/4xx.tpl
+      title: "Default 4xx error page"
+      file: view/4xx.tpl
