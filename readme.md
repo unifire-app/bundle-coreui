@@ -1,7 +1,7 @@
 CoreUI bundle for .unifire
 ==========================
 
-<img align="right" src="./assets/brand/coreui.png">
+<img align="right" src="./assets/assets/brand/coreui.png">
 
 # Installation
 
